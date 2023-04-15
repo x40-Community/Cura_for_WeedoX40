@@ -57,4 +57,4 @@ Now look for the resources directory on your PC from your Cura installation.
 
  
 
-Copy the complete content from the Zip-file into the resources directory of the Cura installation.
+Copy the complete content from the Zip-file into the resources directory of the Cura installation and restart Cura.
