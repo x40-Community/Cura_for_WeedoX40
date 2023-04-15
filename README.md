@@ -1,4 +1,4 @@
-# Ultimaker Cura Configuration for WEEDO X40 3D printer
+# Ultimaker Cura Configuration for WEEDO X40
 ![image](http://www.x40-community.org/images/x40/cura.jpg)
 
 ## Weedo X40
