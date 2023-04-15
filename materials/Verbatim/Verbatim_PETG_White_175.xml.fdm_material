@@ -7,7 +7,7 @@
       <color>White RAL 9003</color>
       <label>White PET-G</label>
     </name>
-    <version>7</version>
+    <version>1</version>
     <GUID>d94d1ae6-4578-476c-8461-79215505589d</GUID>
     <color_code>#f8f9fb</color_code>
     <description>Nozzel: 225-245°C, Bed 90°C, Printingspeed 30mm/s, Diametertolerance +/-0.05mm, High impact strength

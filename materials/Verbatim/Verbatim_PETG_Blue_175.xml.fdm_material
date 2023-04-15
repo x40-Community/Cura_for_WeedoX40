@@ -7,7 +7,7 @@
       <color>Blue RAL 5002</color>
       <label>Blue PET-G</label>
     </name>
-    <version>7</version>
+    <version>1</version>
     <GUID>d7f0d3d9-e08a-48aa-b0af-1fa3478ea064</GUID>
     <color_code>#162e7b</color_code>
     <description>Nozzel: 225-245°C, Bed 90°C, Printingspeed 30mm/s, Diametertolerance +/-0.05mm, High impact strength

@@ -7,7 +7,7 @@
       <color>Red RAL 3020</color>
       <label>Red ecoPLA</label>
     </name>
-    <version>7</version>
+    <version>1</version>
     <GUID>e4c316d4-b1d1-46d5-ab43-4880aeb3a2e7</GUID>
     <color_code>#ff0000</color_code>
     <description>Nozzel 195-215°C, Bed 0-60°C. Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>

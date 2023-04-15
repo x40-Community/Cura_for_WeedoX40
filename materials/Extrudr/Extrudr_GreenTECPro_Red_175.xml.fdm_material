@@ -7,7 +7,7 @@
       <color>Red RAL 3001</color>
       <label>Red GreenTEC Pro</label>
     </name>
-    <version>7</version>
+    <version>1</version>
     <GUID>20e170ef-764b-4873-8c70-b88da09e9906</GUID>
     <color_code>#a02128</color_code>
     <description>Nozzel 210-230°C, Bed 20-90°C, Speed 40-60mm/s, Cooling 30-80%, Max 50% Layer hight.</description>

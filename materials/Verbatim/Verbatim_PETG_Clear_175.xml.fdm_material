@@ -7,7 +7,7 @@
       <color>Clear</color>
       <label>Clear PET-G</label>
     </name>
-    <version>7</version>
+    <version>1</version>
     <GUID>5e1f3f15-ecc1-4c71-af1a-5b86dcd7d087</GUID>
     <color_code>#eee9da</color_code>
     <description>Nozzel: 225-245°C, Bed 90°C, Printingspeed 30mm/s, Diametertolerance +/-0.05mm, High impact strength

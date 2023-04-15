@@ -7,7 +7,7 @@
       <color>Nature RAL 1013</color>
       <label>Nature GreenTEC Pro</label>
     </name>
-    <version>7</version>
+    <version>1</version>
     <GUID>6f71f502-5ee7-4b56-8970-87eb1aa0897d</GUID>
     <color_code>#e9e5ce</color_code>
     <description>Nozzel 210-230°C, Bed 20-90°C, Speed 40-60mm/s, Cooling 30-80%, Max 50% Layer hight.</description>

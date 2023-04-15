@@ -7,7 +7,7 @@
       <color>Antrazit</color>
       <label>Antrazit GreenTEC Pro</label>
     </name>
-    <version>7</version>
+    <version>1</version>
     <GUID>b84f6f15-4a92-4896-8d8e-7e83c8c91fd2</GUID>
     <color_code>#363d43</color_code>
     <description>Nozzel 210-230°C, Bed 20-90°C, Speed 40-60mm/s, Cooling 30-80%, Max 50% Layer hight</description>

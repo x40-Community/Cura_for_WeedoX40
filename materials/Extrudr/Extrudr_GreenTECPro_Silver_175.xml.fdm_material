@@ -7,7 +7,7 @@
       <color>Silver RAL 9006</color>
       <label>Silver GreenTEC Pro</label>
     </name>
-    <version>7</version>
+    <version>1</version>
     <GUID>2797961b-46c6-4bbd-9636-b38701cb1a3e</GUID>
     <color_code>#A3A8AC</color_code>
     <description>Nozzel 210-230°C, Bed 20-90°C, Speed 40-60mm/s, Cooling 30-80%, Max 50% Layer hight.</description>

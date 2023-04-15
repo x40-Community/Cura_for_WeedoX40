@@ -7,7 +7,7 @@
       <color>Blue transparent</color>
       <label>Blue transparent PET-G</label>
     </name>
-    <version>7</version>
+    <version>1</version>
     <GUID>e9ab64bc-e4d9-4dd6-a136-9bdefc23c392</GUID>
     <color_code>#0071b5</color_code>
     <description>Nozzel: 225-245°C, Bed 90°C, Printingspeed 30mm/s, Diametertolerance +/-0.05mm, High impact strength

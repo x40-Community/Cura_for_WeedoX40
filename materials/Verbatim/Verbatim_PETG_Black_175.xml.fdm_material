@@ -7,7 +7,7 @@
       <color>Black RAL 9017</color>
       <label>Black PET-G</label>
     </name>
-    <version>7</version>
+    <version>1</version>
     <GUID>93ee9254-5a34-4b78-b145-9d464bd3bdaa</GUID>
     <color_code>#1b191d</color_code>
     <description>Nozzel: 225-245°C, Bed 90°C, Printingspeed 30mm/s, Diametertolerance +/-0.05mm, High impact strength

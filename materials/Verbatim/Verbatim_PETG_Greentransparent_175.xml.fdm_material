@@ -7,7 +7,7 @@
       <color>Green transparent</color>
       <label>Green transparent PET-G</label>
     </name>
-    <version>7</version>
+    <version>1</version>
     <GUID>e10f5b54-d6ef-4bc8-915d-fcc581386f8d</GUID>
     <color_code>#4b9b3e</color_code>
     <description>Nozzel: 225-245°C, Bed 90°C, Printingspeed 30mm/s, Diametertolerance +/-0.05mm, High impact strength
