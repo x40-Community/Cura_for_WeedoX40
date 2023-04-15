@@ -1,5 +1,16 @@
-Release Note 0.8
-New materials and pressure profiles:
+Release Note 0.9 (Cura 4.12; Settings Version 19)
+The basic configuration of the Weedo X40 is already included in Cura 4.12. However, the status of the zip archive is newer. The data from the Cura installation should therefore be overwritten if necessary.
+
+New materials and printing profiles:
+- Polymaker PolyFlex TPU95A
+- Igus I150-PF
+- 3DJAKE PETG
+- Material4Print PMMA
+Rework Extrudur FlexMedium print profiles
+
+
+Release Note 0.8 (Cura 4.11; Settings Version 17)
+New materials and printing profiles:
 - Polymaker Polyterra PLA
 - Polymaker Polymax PLA
 - Extrudr Flex Medium TPU
