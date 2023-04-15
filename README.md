@@ -44,7 +44,7 @@ The Configuration doesn't work together with Weedo Cura!
 
 
 ## Information
-**The configuration will not be developed further. Please use the Weedo X40 PRO configuration and firmware if you want use the latest Cura Version.**
+**The configuration will not be developed further. Please use the Weedo X40 PRO configuration and firmware if you want use the latest Cura Version. The plugin is not part of the configuration and is only available to X40 community members.**
 
 ## Install
 Download the Zip-file from the github server. The zip file for Cura 4.12 / 4.13 / 5.0.0 can only be used with Cura 4.12.X / 4.13.X / 5.0.0. So make sure you have the right version! Unzip the zip file and look for the resources directory.  
