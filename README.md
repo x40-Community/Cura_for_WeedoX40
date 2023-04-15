@@ -12,8 +12,6 @@ The X40 Community Cura configuration is much more than just a printer definition
 
 Here you can see the supported filament and the current status: Cura Quality and Intent Profiles
 
-There are two Ultimaker Cura configurations for the Weedo X40 printer:
-
 Standard configuration for Weedo X40 or other Firmware
 - Available for Cura 4.X and 5.X
 - Full Idex printing support (Single LH, Single RH, dual mode normal, dual mode mirrored, copy mode) up start script Rev. 11
