@@ -7,6 +7,23 @@ However, the project always struggled with errors in the firmware. In particular
 
 For the perfect operation of the Weedo X40 with Ultimaker Cura, the X40 PRO project with the adaptation of the firmware to Ultimaker Cura.
 
+## Ready to use
+The X40 Community Cura configuration is much more than just a printer definition. It contains a printer visualization and hundreds of tested print profiles. Simply select a supported filament, make small adjustments such as support structure etc. and just print. There is no need to search for and test the correct print parameters. 
+
+Here you can see the supported filament and the current status: Cura Quality and Intent Profiles
+
+There are two Ultimaker Cura configurations for the Weedo X40 printer:
+
+Standard configuration for Weedo X40 or other Firmware
+- Available for Cura 4.X and 5.X
+- Full Idex printing support (Single LH, Single RH, dual mode normal, dual mode mirrored, copy mode) up configuration Rev. 11
+- For capacity reasons, only the X40 PRO version will be further developed.
+- The configuration contains about 3000 print profiles.
+- Supported nozzle size 0,4mm and 0,6mm (not for all printing profiles)
+- Further development has been discontinued. Only the X40 PRO variant will not be further developed.
+
+
+
 ## Help
 Please note that support is only available for X40 community members. Questions on github will therefore not be answered.
 You can join the X40 community at: http://www.x40-community.org/index.php/members-area
