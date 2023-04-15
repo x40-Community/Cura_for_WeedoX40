@@ -7,6 +7,10 @@ However, the project always struggled with errors in the firmware. In particular
 
 For the perfect operation of the Weedo X40 with Ultimaker Cura, the X40 PRO project with the adaptation of the firmware to Ultimaker Cura.
 
+## Help
+Please note that support is only available for X40 community members. Questions on github will therefore not be answered.
+You can join the X40 community at: http://www.x40-community.org/index.php/members-area
+
 ## Supported Cura Version 
 - Ultimaker Cura 4.8
 - Ultimaker Cura 4.9
