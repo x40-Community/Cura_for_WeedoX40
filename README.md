@@ -19,6 +19,7 @@ Standard configuration for Weedo X40 or other Firmware
 - Full Idex printing support (Single LH, Single RH, dual mode normal, dual mode mirrored, copy mode) up start script Rev. 11
 - The configuration contains about 3000 print profiles.
 - Supported nozzle size 0,4mm and 0,6mm (not for all printing profiles)
+- The Cura plugin for embedding the printer preview image is not part of the configuration!
 
 More Information see http://www.x40-community.org/index.php/cura/cura-configuration
 
