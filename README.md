@@ -8,6 +8,7 @@ For the perfect operation of the Weedo X40 with Ultimaker Cura, the X40 PRO proj
 
 ## Supported Cura Version 
 - Ultimaker Cura 4.8
+- Ultimaker Cura 4.9
 
 The Configuration doesn't work together with Weedo Cura! 
 
