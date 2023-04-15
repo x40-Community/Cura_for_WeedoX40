@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Verbatim</brand>
+      <material>BVOH</material>
+      <color>Nature</color>
+      <label>Nature BVOH</label>
+    </name>
+    <version>7</version>
+    <GUID>a9ea9db7-03d1-4f37-bb52-5ef6b1fc8bb3</GUID>
+    <color_code>#ffffff</color_code>
+    <description>Nozzel: 200-220°C, Bed 60°C. Butenediol Vinyl Alcohol Co-polymer (BVOH) for material extrusion. Water dissolvable support material. Waste can be disposed with household effluent**. Excellent layer-forming, emulsifying, adhesive. Best in combination with ABS, PLA, and PET material. Light- and UV-sensitive. Main applications: Support material for filaments, printing projects with overhangs or complex objects</description>
+    <adhesion_info></adhesion_info>
+  </metadata>
+  <properties>
+    <density>1.14</density>
+    <diameter>1.75</diameter>
+    <weight>500</weight>
+  </properties>
+  <settings>
+    <setting key="print temperature">210.0</setting>
+    <setting key="heated bed temperature">60</setting>
+    <setting key="standby temperature">175</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="build volume temperature">28</setting>
+    <setting key="print cooling">100</setting>
+    <setting key="retraction speed">45</setting>
+    <setting key="retraction amount">5</setting>
+  </settings>
+</fdmmaterial>
