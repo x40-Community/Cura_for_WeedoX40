@@ -40,7 +40,8 @@ Now look for the resources directory on your PC from your Cura installation.
 
 
 
-    MacOS (In Finder go to the application folder, find Cura 4.13, right click in the application, open show contents, contents, MacOS, resources)
+    MacOS 
+    (In Finder go to the application folder, find Cura 4.13, right click in the application, open show contents, contents, MacOS, resources)
 
  
 
