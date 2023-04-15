@@ -10,7 +10,7 @@
     <version>1</version>
     <GUID>9544728a-dd30-46d8-890e-becba15a73c1</GUID>
     <color_code>#83382a</color_code>
-    <description>Nozzel 190-210°C, Bed 50-70°C, Printing speed 35-60mm/s, Cooling 75-100%, Printing can be beautiful. Especially when you use FIBERWOOD. This filament will make you feel like a true artist. This material allows you to create stunning, wood-like prints. But that’s not all. Your creations may become even more amazing. You can grind and stain them in different ways. The final look of your print depends solely on your imagination.</description>
+    <description>Printing can be beautiful. Especially when you use FIBERWOOD. This filament will make you feel like a true artist. This material allows you to create stunning, wood-like prints. But that’s not all. Your creations may become even more amazing. You can grind and stain them in different ways. The final look of your print depends solely on your imagination.</description>
     <adhesion_info></adhesion_info>
   </metadata>
   <properties>
@@ -28,5 +28,10 @@
     <setting key="build volume temperature">28</setting>
     <setting key="retraction speed">25</setting>
     <setting key="retraction amount">5.0</setting>
+    <machine>
+       <machine_identifier manufacturer="WEEDO" product="Weedo X40"/>
+       <setting key="retraction speed">40</setting>
+       <setting key="retraction amount">5.5</setting>
+    </machine>
   </settings>
 </fdmmaterial>

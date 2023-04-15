@@ -10,7 +10,7 @@
         <version>1</version>  
         <GUID>73838bc0-f5df-4e9a-94d1-8b47c4beff33</GUID>
         <color_code>#fe6334</color_code>
-        <description>Nozzel 225-255°C, Heatbed 60-80°C, Cooling 20-50%. </description>
+        <description>The Material4Print PETG is characterized by high toughness, good impact resistance, resistant to many chemicals, easy to process, hardly shrinks when cooling, no unpleasant odor development.</description>
         <adhesion_info></adhesion_info>
     </metadata>
     <properties>
@@ -28,5 +28,11 @@
         <setting key="surface energy">100</setting>
         <setting key="build volume temperature">28</setting>
         <setting key="retraction speed">28.0</setting>
+        <machine>
+           <machine_identifier manufacturer="WEEDO" product="Weedo X40"/>
+           <setting key="heated bed temperature">60.0</setting>
+           <setting key="retraction speed">40</setting>
+           <setting key="retraction amount">5.5</setting>
+       </machine>
     </settings>
 </fdmmaterial>

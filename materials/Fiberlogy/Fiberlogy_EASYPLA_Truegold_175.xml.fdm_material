@@ -10,7 +10,7 @@
     <version>1</version>
     <GUID>95392ebe-d8d1-4a14-aa32-cb4763dab708</GUID>
     <color_code>#a99008</color_code>
-    <description>Nozzel 200-230°C, Bed 50-70°C, Cooling 100%, Easy PLA is a material that allows you to achieve prints of a very high quality and avoid complications during the printing process. No matter what level of experience in 3D printing you have, printing with EASY PLA is sure to encourage you to pursue even more ambitious and complex projects. All this thanks to the easiness of printing.</description>
+    <description>Easy PLA is a material that allows you to achieve prints of a very high quality and avoid complications during the printing process. No matter what level of experience in 3D printing you have, printing with EASY PLA is sure to encourage you to pursue even more ambitious and complex projects. All this thanks to the easiness of printing.</description>
     <adhesion_info></adhesion_info>
   </metadata>
   <properties>
@@ -28,5 +28,9 @@
     <setting key="build volume temperature">30</setting>
     <setting key="retraction speed">30</setting>
     <setting key="retraction amount">5</setting>
+    <machine>
+       <machine_identifier manufacturer="WEEDO" product="Weedo X40"/>
+       <setting key="print temperature">200</setting>
+    </machine>
   </settings>
 </fdmmaterial>

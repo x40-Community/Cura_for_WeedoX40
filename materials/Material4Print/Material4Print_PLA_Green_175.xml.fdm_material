@@ -10,7 +10,7 @@
         <version>1</version>  
         <GUID>b53371c2-11f6-4aa2-881d-941534bdb034</GUID>
         <color_code>#03b36d</color_code>
-        <description>Nozzel 190-225°C, Heatbed 0-60°C, Cooling 100%. Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
+        <description>Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
         <adhesion_info></adhesion_info>
     </metadata>
     <properties>
@@ -28,5 +28,11 @@
         <setting key="build volume temperature">28</setting>
         <setting key="retraction amount">4.5</setting>
         <setting key="retraction speed">28.0</setting>
+        <machine>
+           <machine_identifier manufacturer="WEEDO" product="Weedo X40"/>
+           <setting key="print temperature">200.0</setting>
+           <setting key="retraction speed">40</setting>
+           <setting key="retraction amount">5.5</setting>
+       </machine>
     </settings>
 </fdmmaterial>

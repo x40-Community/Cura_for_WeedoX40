@@ -10,7 +10,7 @@
     <version>1</version>
     <GUID>f623cf40-94ae-4283-af5a-c2955547147b</GUID>
     <color_code>#1b191d</color_code>
-    <description>Nozzel: 200-220°C, Bed 60°C, Printingspeed 30mm/s, Diametertolerance +/-0.03mm, High performance Polylactic Acid (PLA) for material extrusion. Biopolymer derived from plants. Good post-printing workability. Main applications: Concept modelling for food packaging, transport containers, medical/hygienic products, housings.  Education. 
+    <description>High performance Polylactic Acid (PLA) for material extrusion. Biopolymer derived from plants. Good post-printing workability. Main applications: Concept modelling for food packaging, transport containers, medical/hygienic products, housings.  Education. 
 </description>
     <adhesion_info></adhesion_info>
   </metadata>
@@ -29,5 +29,11 @@
         <setting key="build volume temperature">28</setting>
         <setting key="retraction speed">28.0</setting>
         <setting key="retraction amount">4.5</setting>   
+        <machine>
+           <machine_identifier manufacturer="Weedo" product="Weedo X40"/>
+           <setting key="print temperature">200.0</setting>
+           <setting key="retraction speed">30</setting>
+           <setting key="retraction amount">5</setting>
+       </machine>
   </settings>
 </fdmmaterial>

@@ -28,5 +28,11 @@
     <setting key="build volume temperature">30</setting>
     <setting key="retraction speed">30</setting>
     <setting key="retraction amount">5</setting>
+    <machine>
+       <machine_identifier manufacturer="WEEDO" product="Weedo X40"/>
+       <setting key="print temperature">220</setting>
+       <setting key="retraction speed">40</setting>
+       <setting key="retraction amount">5.5</setting>
+    </machine>
   </settings>
 </fdmmaterial>

@@ -1,0 +1,16 @@
+Release Note 0.8
+New materials and pressure profiles:
+- Polymaker Polyterra PLA
+- Polymaker Polymax PLA
+- Extrudr Flex Medium TPU
+- Fiberlogy FiberSatin
+- Fiberlogy FilberSilk
+- Verbatim Durabio
+
+The code of all materials and print profiles has been cleaned up. Duplicate parameters have been removed, etc. so that Cura starts faster.
+
+The removal from the raft and the support structure have been improved for all supported materials.
+
+All Visual Profiles now use the Monotonic Top / Bottom Order feature introduced in Cura 4.11 to improve the user interface.
+
+If Cura takes too long for you to start and you do not want to use a profile, you can delete the relevant materials or exclude them in the printer definition to speed things up. In Cura 4.12, an SQL database will very likely be introduced, which will significantly accelerate the start of many print profiles. 

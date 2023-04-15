@@ -10,7 +10,7 @@
     <version>1</version>
     <GUID>a5d87dcd-f498-4317-bf53-25bc38437a2e</GUID>
     <color_code>#67686c</color_code>
-    <description>Nozzel 220-250°C, Bed 90°C, Cooling 0-25%, The EASY PET-G filament is an interesting proposition for those looking for a combination of the ease of 3D printing with functional and aesthetic values. PET enriched with the addition of glycol ensures high resistance to mechanical, chemical and atmospheric factors, and its high amorphy combined with a very good flow allows obtaining prints with greater transparency and better layer bonding.</description>
+    <description>The EASY PET-G filament is an interesting proposition for those looking for a combination of the ease of 3D printing with functional and aesthetic values. PET enriched with the addition of glycol ensures high resistance to mechanical, chemical and atmospheric factors, and its high amorphy combined with a very good flow allows obtaining prints with greater transparency and better layer bonding.</description>
     <adhesion_info></adhesion_info>
   </metadata>
   <properties>
@@ -28,5 +28,10 @@
     <setting key="build volume temperature">50</setting>
     <setting key="retraction speed">35</setting>
     <setting key="retraction amount">4.0</setting>
+    <machine>
+       <machine_identifier manufacturer="WEEDO" product="Weedo X40"/>
+       <setting key="retraction speed">40</setting>
+       <setting key="retraction amount">5.5</setting>
+    </machine>
   </settings>
 </fdmmaterial>

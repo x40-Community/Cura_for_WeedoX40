@@ -10,7 +10,7 @@
     <version>1</version>
     <GUID>43732a20-82db-46b4-96b1-d3145250ad8a</GUID>
     <color_code>#ffffff</color_code>
-    <description>Nozzel 205-225°C, Bed 70-80°C, Printing speed up to 200mm/s, Cooling 100%, Polyvinyl butyral (PVB) is a design material suitable for easy smoothing with isopropyl alcohol (IPA). Print settings are similar to PLA, mechanical properties are slightly better (similar to CPE or PETG). Thanks to the IPA smoothing it’s optimal for printing visual models, such as unconventional vases, jewelry, lampshades, and other design parts. It’s good to tweak print settings, especially layer height, number of perimeters, and infill density.</description>
+    <description>Polyvinyl butyral (PVB) is a design material suitable for easy smoothing with isopropyl alcohol (IPA). Print settings are similar to PLA, mechanical properties are slightly better (similar to CPE or PETG). Thanks to the IPA smoothing it’s optimal for printing visual models, such as unconventional vases, jewelry, lampshades, and other design parts. It’s good to tweak print settings, especially layer height, number of perimeters, and infill density.</description>
     <adhesion_info></adhesion_info>
   </metadata>
   <properties>
@@ -28,5 +28,10 @@
     <setting key="build volume temperature">28</setting>
     <setting key="retraction speed">30</setting>
     <setting key="retraction amount">5.0</setting>
+    <machine>
+       <machine_identifier manufacturer="WEEDO" product="Weedo X40"/>
+       <setting key="retraction speed">40</setting>
+       <setting key="retraction amount">5.5</setting>
+    </machine>
   </settings>
 </fdmmaterial>

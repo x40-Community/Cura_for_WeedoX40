@@ -10,8 +10,7 @@
     <version>1</version>
     <GUID>e9ab64bc-e4d9-4dd6-a136-9bdefc23c392</GUID>
     <color_code>#0071b5</color_code>
-    <description>Nozzel: 225-245°C, Bed 90°C, Printingspeed 30mm/s, Diametertolerance +/-0.05mm, High impact strength
-Excellent flexibility, Almost no warping or shrinkage, Hydrophobic (does not absorb water), Food packaging grade pellets used
+    <description>High impact strength, Excellent flexibility, Almost no warping or shrinkage, Hydrophobic (does not absorb water), Food packaging grade pellets used
 Odour neutral, Main applications: concept modelling for mechanics, medical, food containers, transparent objects.</description>
     <adhesion_info></adhesion_info>
   </metadata>
@@ -30,5 +29,12 @@ Odour neutral, Main applications: concept modelling for mechanics, medical, food
         <setting key="build volume temperature">28</setting>
         <setting key="retraction speed">28.0</setting>
         <setting key="retraction amount">4.5</setting>
+        <machine>
+           <machine_identifier manufacturer="Weedo" product="Weedo X40"/>
+           <setting key="print temperature">225.0</setting>
+           <setting key="heated bed temperature">80.0</setting>
+           <setting key="retraction speed">30</setting>
+           <setting key="retraction amount">5</setting>
+       </machine>
   </settings>
 </fdmmaterial>
