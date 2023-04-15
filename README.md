@@ -35,6 +35,8 @@ Now look for the resources directory on your PC from your Cura installation.
 
     Linux
     /usr/share/cura/resources
+    or
+    ~/.local/share/cura/4.13
 
 
 
