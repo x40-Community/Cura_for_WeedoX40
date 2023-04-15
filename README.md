@@ -6,6 +6,12 @@ Since Weedo didn't provide a really well-working configuration for Ultimaker Cur
 However, the project always struggled with errors in the firmware. In particular, the problem with heating up in dual mode could only be improved with a workaround, but not eliminated.
 For the perfect operation of the Weedo X40 with Ultimaker Cura, the X40 PRO project with the adaptation of the firmware to Ultimaker Cura.
 
+## Supported Cura Version 
+- Ultimaker Cura 4.8
+- 
+
+The Configuration doesn't work together with Weedo Cura! 
+
 ## Supported Hardware Version 
 - X40 V1: The first mass production version. The production time is from November 2020 to June 2021.
 - X40 V2: The second production version. The production batch start from July 2021.
