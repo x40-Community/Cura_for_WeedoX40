@@ -4,6 +4,7 @@
 ## Weedo X40
 Since Weedo didn't provide a really well-working configuration for Ultimaker Cura after the Kickstarter project, the X40 community got to work. Thanks to donations, a good setup with many printer profiles could be created.
 However, the project always struggled with errors in the firmware. In particular, the problem with heating up in dual mode could only be improved with a workaround, but not eliminated.
+
 For the perfect operation of the Weedo X40 with Ultimaker Cura, the X40 PRO project with the adaptation of the firmware to Ultimaker Cura.
 
 ## Supported Cura Version 
